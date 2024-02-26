@@ -8,4 +8,4 @@ from .t import t_factory
 from .uchar import uchar
 from .elapsed import elapsed, remaining
 
-VERSION = "v0.1.0"
+VERSION = "v0.1.1"
