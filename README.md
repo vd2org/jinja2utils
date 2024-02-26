@@ -8,6 +8,10 @@ Useful utils for jinja2
 pip install jinja2utils
 ```
 
+### Related packages:
+
+- [YamlLoader for jinja2 template framework](https://github.com/vd2org/jinja2yaml)
+
 ## t_factory
 
 t_factory is a small tool which helps prefixed templates easily.
