@@ -3,7 +3,7 @@ name = "jinja2utils"
 version = "0.1.1"
 description = "Collection of utils for jinja2"
 keywords = [
-    "jinja2", "jinja2-template", "jinja2-extention", "template", "t_factory", "plural",
+    "jinja2", "jinja2-template", "jinja2-extention", "template", "plural",
     "pluralize", "elapsed", "remaining", "uchar", "unicode"
 ]
 classifiers = [
